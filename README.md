@@ -1,6 +1,3 @@
-Certainly! Below is a basic template for a GitHub README for a Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript:
-
----
 
 # Tic-Tac-Toe Game
 
